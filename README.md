@@ -1,2 +1,3 @@
 # hello-world
-This repository is for practicing the GitHub Flow.
+Hello my name is Geraldine and I am 43 years old. 
+I have 3 children. 
